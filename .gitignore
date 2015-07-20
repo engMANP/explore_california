@@ -1,0 +1,7 @@
+tmpfile.txt
+.DS_Strore
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+ 
